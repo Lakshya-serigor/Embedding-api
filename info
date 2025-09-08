@@ -1,0 +1,2 @@
+Pdf-path like this = pdf_path : "C:\\Users\\LakshyaSingh\\Desktop\\TPSoft-API\\Booklet.pdf"
+running cmd = python -m uvicorn pdf_to_faiss_api:app --host 0.0.0.0 --port 8504 --reload
