@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual envs
+.venv/
+env/
+venv/
+
+# Environment files (API keys, secrets)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
